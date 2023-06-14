@@ -1,0 +1,15 @@
+C:\Informatique\CSharp\wildschool\Lists\obj\Debug\net7.0\Lists.csproj.AssemblyReference.cache
+C:\Informatique\CSharp\wildschool\Lists\obj\Debug\net7.0\Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Informatique\CSharp\wildschool\Lists\obj\Debug\net7.0\Lists.AssemblyInfoInputs.cache
+C:\Informatique\CSharp\wildschool\Lists\obj\Debug\net7.0\Lists.AssemblyInfo.cs
+C:\Informatique\CSharp\wildschool\Lists\obj\Debug\net7.0\Lists.csproj.CoreCompileInputs.cache
+C:\Informatique\CSharp\wildschool\Lists\bin\Debug\net7.0\Lists.exe
+C:\Informatique\CSharp\wildschool\Lists\bin\Debug\net7.0\Lists.deps.json
+C:\Informatique\CSharp\wildschool\Lists\bin\Debug\net7.0\Lists.runtimeconfig.json
+C:\Informatique\CSharp\wildschool\Lists\bin\Debug\net7.0\Lists.dll
+C:\Informatique\CSharp\wildschool\Lists\bin\Debug\net7.0\Lists.pdb
+C:\Informatique\CSharp\wildschool\Lists\obj\Debug\net7.0\Lists.dll
+C:\Informatique\CSharp\wildschool\Lists\obj\Debug\net7.0\refint\Lists.dll
+C:\Informatique\CSharp\wildschool\Lists\obj\Debug\net7.0\Lists.pdb
+C:\Informatique\CSharp\wildschool\Lists\obj\Debug\net7.0\Lists.genruntimeconfig.cache
+C:\Informatique\CSharp\wildschool\Lists\obj\Debug\net7.0\ref\Lists.dll
